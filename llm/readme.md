@@ -5,3 +5,4 @@
 |03|[Building Systems with the ChatGPT API](https://learn.deeplearning.ai/courses/chatgpt-building-system/lesson/1/introduction)|DeepLearning.AI|
 |04|[Finetuning Large Language Models](https://www.coursera.org/projects/finetuning-large-language-models-project)|DeepLearning.AI|
 |05|[LangChain Chat with Your Data](https://www.coursera.org/projects/langchain-chat-with-your-data-project)|DeepLearning.AI|
+|06|[LLMOps](https://learn.deeplearning.ai/courses/llmops/lesson/1/introduction)|DeepLearning.AI|
