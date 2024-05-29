@@ -9,3 +9,4 @@
 |06|[Building Agentic RAG with Llamaindex](https://learn.deeplearning.ai/courses/building-agentic-rag-with-llamaindex/lesson/1/introduction)|DeepLearning.AI|---|
 |07|[Building and Evaluating Advanced RAG](https://learn.deeplearning.ai/courses/building-evaluating-advanced-rag/lesson/1/introduction)|DeepLearning.AI|---|
 |08|[Building Multimodal Search and RAG](https://learn.deeplearning.ai/courses/building-multimodal-search-and-rag/lesson/1/introduction)|DeepLearning.AI|---|
+|09|[Introduction to Retrieval Augmented Generation (RAG)](https://www.coursera.org/projects/introduction-to-rag)|DeepLearning.AI|😀|
